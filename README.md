@@ -16,4 +16,4 @@ qb-core>shared>items
 
 
 ![alt text](https://cdn.discordapp.com/attachments/1165372276280139937/1165373265791942797/image.png?ex=65469d6e&is=6534286e&hm=01a996460d168cd9a9d3bd90a867480f6d10b9bbbb68f702b021f2482e0a693e&)
-![alt text](https://cdn.discordapp.com/attachments/1165372276280139937/1165373265791942797/image.png?ex=65469d6e&is=6534286e&hm=01a996460d168cd9a9d3bd90a867480f6d10b9bbbb68f702b021f2482e0a693e&)
+![alt text](https://cdn.discordapp.com/attachments/1165372276280139937/1165373180425289838/image.png?ex=65469d59&is=65342859&hm=1d0cff3abb1aa4349a5fb1871dd435bb84267c20cc6c462cb2037687c25ccdaf&)
