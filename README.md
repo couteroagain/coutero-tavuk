@@ -7,7 +7,7 @@ Eşya görsellerine erişmek için inventory dosyanızın HTML kısmındaki "ima
 Önce qb-core dosyasına giriş yapın, sonra içinde bulunan shared dosyasına girin ve içerisindeki items.lua'yı açın. Kopyaladığınız yazıyı uygun bir alana yapıştırın.
 qb-core>shared>items
 
-https://cdn.discordapp.com/attachments/1165372276280139937/1165373265791942797/image.png?ex=65469d6e&is=6534286e&hm=01a996460d168cd9a9d3bd90a867480f6d10b9bbbb68f702b021f2482e0a693e&
+![alt text](https://cdn.discordapp.com/attachments/1165372276280139937/1165373265791942797/image.png?ex=65469d6e&is=6534286e&hm=01a996460d168cd9a9d3bd90a867480f6d10b9bbbb68f702b021f2482e0a693e&)
 
 ```lua
 	-- coutero-davuk
